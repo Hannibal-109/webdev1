@@ -1,0 +1,51 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #3498db; /* Blue color */
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    background-color: #e74c3c; /* Red color */
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    margin: 0 1em;
+}
+
+
+footer {
+    background-color: #3498db; 
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.section1{
+    background-image: url("pc.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    width: 100%;
+    color: #f0f0f0;
+}
+
+
+
+
+
